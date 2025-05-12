@@ -1,44 +1,44 @@
-## 🎯 Title / Project Name
+## 🎯 Packet Tracer Lab
 
 
 ## 📝 Description
-My goal was to become familiar with the fundamentals of network scanning and understand how to interpret Nmap output. I wanted to gain hands-on experience in identifying active systems and open services, which are crucial first steps in penetration testing and network security assessments.
+
+Here I will show a project I have done in school. I configured a network available in one piece here (put hte link to project.pkt) also, I have placed the configurations in separeted folder in this reposiroty with a README.md for each one.
 
 ## 🔧 Tools Used
-List the tools, platforms, and software involved:
 
-Nmap
-Wireshark (optional)
-Kali Linux
-VirtualBox (if used)
+- Cisco Packet Tracer
 
 ## 💡 Skills Learned
-What new skills or knowledge did you gain from this project?
 
-Understanding of basic network scanning techniques
-Familiarity with interpreting Nmap output
-Improved ability to assess network security posture
-Practice setting up a secure lab environment
+- Configuring a Server DHCP Server, DNS Server, WEB Server, FTP Server, Routers, Switches
+- How to make a comprehensive display of devices
+- Subnetting
+- Basic vlan
+- Basic configuration of static/dynamic Routing and RIPv2, OSPF, EIGRP, BGP
 
-# Steps Overview
-1. [Here 1st](#Here-1st)
-2. [here will be the 2nd step](#here-will-be-the-2nd-step)
-3. [sha256](#sha256)
-
-## ⚙️ Steps Taken
-Describe step-by-step how you completed the project. Use # so you can place the steps in the steps overview.
-
-### Initial setup
-
-well well well yes!
-
-### Here 1st
-
-### here will be the 2dn step
+| Skills/Component        |         Folder           |
+|-------------------------|-----------------------------|
+| DHCP Server             | [dhcp-setup/](dhcp-setup/) |
+| DNS Server              | [dns-setup/](dns-setup/) |
+| Router Setup            | [router-config/](router-config/) |
+| Static Routing          |  |
+| Dynamic Routing RIPv2   |  |
+| Dynamic Routing OSPF    |  |
+| Dynamic Routing EIGRP   |  |
+| Dynamic Routing BGP     |  |
+| Switch Setup            | [switch-config/](switch-config/) |
 
 
-1
-![Wireshark Capture](https://i.imgur.com/example-image-link.png )
+
+## Overview of the project
+
+Here you have the CiscoPacketTracer.pkt complete file.
+
+
+Here you see the project:
+IMAGE OF THE WHOLE PAGE OF THE PROJO
+
 
 
 ## 🔙 Back to Portfolio
