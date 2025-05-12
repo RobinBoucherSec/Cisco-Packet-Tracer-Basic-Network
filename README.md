@@ -12,10 +12,11 @@ Here I will show a project I have done in school. I configured a network availab
 ## 💡 Skills Learned
 
 - Configuring a Server DHCP Server, DNS Server, WEB Server, FTP Server, Routers, Switches
-- How to make a comprehensive display of devices
+- Display a comprehensive logic and physic network of devices
 - Subnetting
 - Basic vlan
 - Basic configuration of static/dynamic Routing and RIPv2, OSPF, EIGRP, BGP
+- 
 
 | Skills/Component        |         Folder           |
 |-------------------------|-----------------------------|
