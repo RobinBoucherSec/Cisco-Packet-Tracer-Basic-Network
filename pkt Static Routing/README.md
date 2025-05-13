@@ -153,7 +153,7 @@ ftp.cumberland.college Connexion réussie + fichiers??
 ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/letter%20successful.png)
 
 
-## Preblem encountered
+## Problem encountered
 
 - I realized that some PC where on static IP and not DHCP.
 
