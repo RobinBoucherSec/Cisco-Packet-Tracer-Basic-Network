@@ -126,8 +126,8 @@ ip route 192.168.1.128 255.255.255.224 172.16.4.1
 
 - Ping PC's to PC's ping in different vlan's and the answers should be like this for every combination:
 
-sreenshot resultat de ping
-
+Here is a ping from PC7 to PC4 successful:
+[image](
 ??Ping vers le serveur
 DNS
 ping 192.168.1.161 Réponse OK
@@ -140,6 +140,11 @@ ftp.cumberland.college Connexion réussie + fichiers??
 
 - Also I can use the PDU (screenshot de l'enveloppe) and click with the envelloppe on the two devices I want to test communication. This should appear
 
-(screenshot du status en bas de bage)
+[image](
 
 
+## Preblem encountered
+
+- I realized that some PC where on static IP and not DHCP.
+
+- The configuration of Fa/192.168.1.165 of the Direction Generale's Router had a typo mistake so at first, vlan was not able to ping.
