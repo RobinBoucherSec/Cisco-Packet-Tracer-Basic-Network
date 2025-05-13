@@ -127,7 +127,9 @@ ip route 192.168.1.128 255.255.255.224 172.16.4.1
 - Ping PC's to PC's ping in different vlan's and the answers should be like this for every combination:
 
 Here is a ping from PC7 to PC4 successful:
-[image](
+
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/ping%20PC7%20to%20PC4.png)
+
 ??Ping vers le serveur
 DNS
 ping 192.168.1.161 Réponse OK
