@@ -142,7 +142,7 @@ ftp.cumberland.college Connexion réussie + fichiers??
 
 - Also I can use the PDU ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/letter%20icon.png) and click with the envelloppe on the two devices I want to test communication. This should appear
 
-[image](
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/letter%20successful.png)
 
 
 ## Preblem encountered
