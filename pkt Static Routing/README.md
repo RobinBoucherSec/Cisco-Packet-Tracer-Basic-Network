@@ -1,7 +1,15 @@
 
 ## Static configurations
 
+### 📝 Description
+
 Here I do the configuration of static routing for every vlan.
+
+### 🎯 Objectives
+
+I want to be able to ping every devices togeter, regardless of their vlan.
+
+### ⚙️ Steps Taken
 
 When i open the CLI of any router, I start with the `cisco` password if needed and:
 ```
@@ -150,3 +158,7 @@ ftp.cumberland.college Connexion réussie + fichiers??
 - I realized that some PC where on static IP and not DHCP.
 
 - The configuration of Fa/192.168.1.165 of the Direction Generale's Router had a typo mistake so at first, vlan was not able to ping.
+
+  ## 🔙 Back to Portfolio
+[⬅️ Back to my Cybersecurity Portfolio](https://github.com/RobinBoucherSec/RobinBoucherSec)
+
