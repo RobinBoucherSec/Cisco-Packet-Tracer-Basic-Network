@@ -70,4 +70,17 @@ ip route 192.168.1.96 255.255.255.224 172.16.2.1
 ip route 192.168.1.128 255.255.255.224 172.16.4.1
 
 
+add test of validation: (can find them in TP6)
+Ping entre clients ping IP-client-distant Réponse OK
+Ping vers le serveur
+DNS
+ping 192.168.1.161 Réponse OK
+DNS nslookup
+web.cumberland... Résolution vers
+192.168.1.162
+Web Navigateur Web Page du site s’affiche
+FTP ftp
+ftp.cumberland.college Connexion réussie + fichiers
+
+
 
