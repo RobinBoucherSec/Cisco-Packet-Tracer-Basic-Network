@@ -145,27 +145,20 @@ Here is a ping from PC7 to PC4 successful:
 ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/tracert%20PC11%20web.png)
 
 
-
-
-
-??Ping vers le serveur
-DNS
-ping 192.168.1.161 Réponse OK
-DNS nslookup
-web.cumberland... Résolution vers
-192.168.1.162
-Web Navigateur Web Page du site s’affiche
-FTP ftp
-ftp.cumberland.college Connexion réussie + fichiers??
-
 - Also I can use the PDU ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/letter%20icon.png) and click with the envelloppe on the two devices I want to test communication. This should appear
 
 ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/letter%20successful.png)
 
+- FTP communication between PC15 and FTP server 192.168.1.164:
+
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/ftp%20pc15.png)
+
+- Do an nslookup for www.cumberland.college with PC13:
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/nslookup%20pc13.png)
 
 ## Problem encountered
 
-- I realized that some PC where on static IP and not DHCP.
+- I realized that some PC where on static IP and not DHCP. I needed to enable the DHCP of the PC's in Desktop > IP Configuration.
 
 - The configuration of Fa/192.168.1.165 of the Direction Generale's Router had a typo mistake so at first, vlan was not able to ping.
 
