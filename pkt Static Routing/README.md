@@ -138,6 +138,16 @@ Here is a ping from PC7 to PC4 successful:
 
 ![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/ping%20PC7%20to%20PC4.png)
 
+- Test the connection between PC12 and the web browser:
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/web%20browsing%20pc12.png)
+
+- Test the tracert of PC11 to the web server 192.168.1.163:
+![image](https://github.com/RobinBoucherSec/Cisco-Packet-Tracer-Basic-Network/blob/main/pkt%20Static%20Routing/images/tracert%20PC11%20web.png)
+
+
+
+
+
 ??Ping vers le serveur
 DNS
 ping 192.168.1.161 Réponse OK
